@@ -601,7 +601,7 @@
                 
                 <!-- Ad Placeholder -->
                 <div class="ad-placeholder">
-                    <div class="ad-label">ca-app-pub-5329568978822171/2797225082</div>
+                    <div class="ad-label">ca-app-pub-5329568978822171/2797225082/div>
                     <div class="ad-text">Your ad would be displayed here</div>
                 </div>
                 
@@ -618,7 +618,7 @@
                 
                 <!-- Ad Placeholder -->
                 <div class="ad-placeholder" style="margin-bottom: 25px;">
-                    <div class="ad-label">AD BANNER</div>
+                    <div class="ad-label">ca-app-pub-5329568978822171/2797225082</div>
                     <div class="ad-text">Advertisement space for fitness products</div>
                 </div>
                 
